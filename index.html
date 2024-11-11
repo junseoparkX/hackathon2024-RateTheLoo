@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main Entry</title>
+    <script>
+        // Check if the intro page has been viewed in this session
+        window.onload = function() {
+            if (!sessionStorage.getItem("introViewed")) {
+                // Redirect to intro.html if it hasn't been viewed
+                window.location.href = "introPage.html";
+            } else {
+                // Otherwise, redirect to the main content (e.g., footPrint.html)
+                window.location.href = "footPrint.html";
+            }
+        };
+    </script>
+</head>
+<body>
+    <p>Loading, please wait...</p>
+</body>
+</html>

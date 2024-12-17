@@ -1,6 +1,6 @@
 # hackcamp2024-ratemytoilet
 
-https://youtu.be/0WWkf-Y1hKY
+[Watch the video on YouTube](https://youtu.be/0WWkf-Y1hKY)
 
 ## Inspiration
 When you gotta go, you gotta go. But the real question is… WHERE? In this project, we aim to provide a cleaner and clearer answer based on your fellow’s testimonials—so you could enhance your relief experience!
